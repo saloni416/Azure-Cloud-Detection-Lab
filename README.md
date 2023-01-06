@@ -178,7 +178,7 @@ This document demonstrates through images and brief descriptions, steps undertak
 <h3>Part 9: Conclusions</h3>
 
  - The scheduled task, in this case, was non-malicious as it only opens a benign Internet Explorer. Thus, the incident is deemed false positive and the case is closed
- - Alternatively if it was malicious, Playbooks that use Azure Logic Apps could be added to the custom rule in Microsoft Sentinel and help automate an appropriate response to such incidents
+ - Alternatively if it was malicious, an automated Playbook that uses Azure Logic Apps could be added to the custom rule in Microsoft Sentinel and help with an appropriate response to such incidents
  
 <h3>Part 10: MITRE ATT&CK’s Detection and Mitigation</h3>
 
